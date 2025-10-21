@@ -1,0 +1,1 @@
+A real-time face detection application using OpenCV. Captures webcam video, detects faces with Haar cascades, and outlines them dynamically with red polygons. Lightweight and fast, it provides an interactive demonstration of computer vision face detection and visualization.
